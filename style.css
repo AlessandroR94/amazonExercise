@@ -1,0 +1,111 @@
+body {
+    width: 100%;
+    margin: 0;
+    background-color: #EAEDED;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+main {
+    margin-top: 2em;
+}
+
+header {
+    background-color:#222F3E;
+}
+
+.navigationTop {
+    background-color: #354758;
+}
+
+.imgTop {
+    width: 10em;
+    margin: 0;
+    margin-left: 1.5em;
+}
+
+.find {
+    text-align: left;
+    margin-left: 2em;
+    padding-top: 2em;
+}
+
+.navTop {
+    display: inline;
+    margin-left: 2em;
+    color: white;
+}
+
+.firstPar {
+    display: inline;
+    margin-left: 2em;
+    color: white;
+}
+
+.holidayGift {
+    text-align: center;
+    background-color: #F56600;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding: 1px;
+}
+
+.beGifter {
+    color: white;
+    text-align: center;
+    background-image: url(imghome/holidaygift.png);
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.perfectGift {
+    background-color: white;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+
+.imgPerfectGift {
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+    margin: 30px;
+}
+
+.gamingGift {
+    height: 350px;
+    background-image: url(imghome/realtavirtuale.png);
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.underImg {
+    text-align: center;
+}
+
+.gamAcc {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    display: inline-block;
+    margin-left: 2em;
+}
+
+footer {
+    background-color: #222F3E;
+    text-align: center;
+}
+
+footer img {
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+footer p {
+    background-color: #354758;
+}
+
+footer a {
+    color: white;
+}
